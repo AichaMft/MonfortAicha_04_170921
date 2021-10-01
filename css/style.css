@@ -374,6 +374,7 @@ a:hover {
 }
 .adress, .big_p{
     font-size:18px;
+    color:#2b302f;
 }
 
 @media (min-width: 768px) {
