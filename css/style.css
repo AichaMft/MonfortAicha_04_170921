@@ -493,7 +493,10 @@ button {
 
 .icon-md {
     font-size: 30px!important;
+    background-color: transparent;
+    border: none;
 }
+
 
 .icon-lg {
     font-size: 60px!important;
@@ -730,6 +733,7 @@ p {
     flex-direction: row;
     justify-content: space-between;
 }
+
 
 h2 {
     font-size: 22px;
